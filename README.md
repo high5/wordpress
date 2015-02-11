@@ -5,8 +5,10 @@
 
 ### 1.download
 git clone git@github.com:high5/wordpress.git
+
 or
-gti clone https://github.com/high5/wordpress.git
+
+git clone https://github.com/high5/wordpress.git
 
 ### 2.database
 Database name is optional.
